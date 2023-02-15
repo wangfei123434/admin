@@ -1,0 +1,88 @@
+{
+    "code":200,
+    "data":{
+      "currentPage":1,
+      "hitCount":false,
+      "orders":[],
+      "totalPage":1,
+      "list":[
+        {
+          "lsName": "武汉翰隆堂大药房有限公司",
+          "ydName": "张三",
+          "xsNum": "88",
+          "djNum": "66",
+          "wgxsNum": "22",
+          "jgDate": "2022/2/12"
+        },
+        {
+          "lsName": "武汉翰隆堂大药房有限公司",
+          "ydName": "张三",
+          "xsNum": "88",
+          "djNum": "66",
+          "wgxsNum": "22",
+          "jgDate": "2022/2/12"
+        },
+        {
+          "lsName": "武汉翰隆堂大药房有限公司",
+          "ydName": "张三",
+          "xsNum": "88",
+          "djNum": "66",
+          "wgxsNum": "22",
+          "jgDate": "2022/2/12"
+        },
+        {
+          "lsName": "武汉翰隆堂大药房有限公司",
+          "ydName": "张三",
+          "xsNum": "88",
+          "djNum": "66",
+          "wgxsNum": "22",
+          "jgDate": "2022/2/12"
+        },
+        {
+          "lsName": "武汉翰隆堂大药房有限公司",
+          "ydName": "张三",
+          "xsNum": "88",
+          "djNum": "66",
+          "wgxsNum": "22",
+          "jgDate": "2022/2/12"
+        },
+        {
+          "lsName": "武汉翰隆堂大药房有限公司",
+          "ydName": "张三",
+          "xsNum": "88",
+          "djNum": "66",
+          "wgxsNum": "22",
+          "jgDate": "2022/2/12"
+        },
+        {
+          "lsName": "武汉翰隆堂大药房有限公司",
+          "ydName": "张三",
+          "xsNum": "88",
+          "djNum": "66",
+          "wgxsNum": "22",
+          "jgDate": "2022/2/12"
+        },
+        {
+          "lsName": "武汉翰隆堂大药房有限公司",
+          "ydName": "张三",
+          "xsNum": "88",
+          "djNum": "66",
+          "wgxsNum": "22",
+          "jgDate": "2022/2/12"
+        },
+        {
+          "lsName": "武汉翰隆堂大药房有限公司",
+          "ydName": "张三",
+          "xsNum": "88",
+          "djNum": "66",
+          "wgxsNum": "22",
+          "jgDate": "2022/2/12"
+        }
+      ],
+      "searchCount":true,
+      "pageSize":10,
+      "total":9
+    },
+    "msg":"操作成功",
+    "success":true
+  }

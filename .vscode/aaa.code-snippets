@@ -1,0 +1,22 @@
+{
+    "Print to console": {
+        "prefix": "vue",
+        "body": [
+            "<template>",
+            "$1",
+            "</template>",
+            "<script>",
+            "import { defineComponent, onMounted, ref, reactive, toRefs } from 'vue';",
+            "export default defineComponent({",
+            "  setup(){",
+            "    return {};",
+            "  }",
+            "});",
+            "</script>",
+            "<style lang='scss' scoped>",
+            "$3",
+            "</style>"
+        ],
+        "description": "Log output to console"
+    }
+}
